@@ -5,8 +5,6 @@ public class GameDriver {
 
 		Game game = new Game();
 		game.play();
-		System.out.println("testing");
-		
-		
+
 	}
 }
